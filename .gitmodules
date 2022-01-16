@@ -1,0 +1,3 @@
+[submodule "devops.ansible.hardening_linux"]
+	path = devops.ansible.hardening_linux
+	url = https://github.com/BlackChaose/devops.ansible.hardening_linux.git
